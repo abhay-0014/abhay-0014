@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhay-0014
+- 👋 Hi, I’m Abhay raj singh
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning Bigquery and scala
 - 💞️ I’m looking to collaborate on job related to Data analyst
